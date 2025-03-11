@@ -19,7 +19,7 @@ A beautiful chess game implementation in Go using the Ebiten game engine. Featur
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ClaudeChessGame.git
+git clone https://github.com/benwheeler12/ClaudeChessGame.git
 cd ClaudeChessGame
 ```
 
